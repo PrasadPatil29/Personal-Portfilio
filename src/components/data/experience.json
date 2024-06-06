@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": " Virtual Internship in Web Development ",
+    "organisation": "CODSOFT",
+    "startDate": "July, 2023",
+    "endDate": "Aug, 2023",
+    "location": "Virtual Internship ",
+    "experiences": [
+      "Worked on Product Landing Page",
+      "Worked with HTML,CSS,JAVASCRIPT"
+    ],
+    "imageSrc": "company/CodsoftLogo.png"
+  },
+  {
+    "id": 2,
+    "role": " Virtual Internship in Machine Learning",
+    "organisation": " EduSkills by AICTE",
+    "startDate": "Sep, 2023",
+    "endDate": "Nov, 2023",
+    "location": "Virtual Internship",
+    "experiences": [
+      "Worked on Various ML model",
+      "Worked on Python and ML"
+    ],
+    "imageSrc": "company/EduSkillsLogo.png"
+  }
+]

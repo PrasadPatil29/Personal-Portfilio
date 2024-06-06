@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": " A CNN Based Classification of Fetal Organ Anomalies",
+    "imageSrc": "https://i.postimg.cc/MH2tS8MR/Screenshot-2024-05-25-162305.png",
+    "description": "This is a project made with Machine Learning and HTML and CSS",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Medicine Recommendation System Rule base",
+    "imageSrc": "https://i.postimg.cc/9FXyKBJJ/Screenshot-2024-06-05-142303.png",
+    "description": "This is a project made with complete Machine learning",
+    "demo": "https://github.com/PrasadPatil29/Medicine-Recommendation-System-Rule-base",
+    "source": "https://github.com/PrasadPatil29/Medicine-Recommendation-System-Rule-base"
+  },
+  {
+    "key": 3,
+    "title": "School Management System",
+    "imageSrc": "https://i.postimg.cc/bv9WThgm/Screenshot-2024-06-05-142744.png",
+    "description": "This is a project made with complete Spring MVC and Java",
+    "demo": "https://github.com/PrasadPatil29/NP_PATIL_SCHOOL_MANAGEMENT_SYSTEM_USING_SPRINGBOOT",
+    "source": "https://github.com/PrasadPatil29/NP_PATIL_SCHOOL_MANAGEMENT_SYSTEM_USING_SPRINGBOOT"
+  }
+]
